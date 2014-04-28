@@ -1,0 +1,29 @@
+{
+  "name": "model-nest",
+  "version": "0.0.1",
+  "description": "model nesting for component/model",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cargosafe/model-nest.git"
+  },
+  "keywords": [
+    "collection",
+    "model",
+    "orm",
+    "db",
+    "database"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cargosafe/model-nest/issues"
+  },
+  "homepage": "https://github.com/cargosafe/model-nest"
+}
